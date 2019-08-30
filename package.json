@@ -1,0 +1,23 @@
+{
+  "name": "sequential-uuid",
+  "version": "1.0.0",
+  "description": "Utility for generating sequential UUID v4 in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxtomczyk/sequential-uuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "sequential-uuid"
+  ],
+  "author": "Maksymilian Tomczyk <m.tomczyk.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxtomczyk/sequential-uuid/issues"
+  },
+  "homepage": "https://github.com/maxtomczyk/sequential-uuid#readme"
+}
